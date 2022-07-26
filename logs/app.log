@@ -1,0 +1,50 @@
+2022-04-11 09:22:36,144 INFO [app] Configuration file: /home/appadmin/ibm/scripts/app.config
+2022-04-11 09:22:36,145 INFO [app] Resilient server: 10.10.2.50
+2022-04-11 09:22:36,145 INFO [app] Resilient api key id: 8a96e5e5-4c19-471b-8e9c-39d5c0004e8d
+2022-04-11 09:22:36,146 INFO [app] Resilient org: IBM
+2022-04-11 09:22:36,146 INFO [app] Logging Level: INFO
+2022-04-11 09:22:57,999 INFO [app] Configuration file: /home/appadmin/ibm/scripts/app.config
+2022-04-11 09:22:58,000 INFO [app] Resilient server: 10.10.2.50
+2022-04-11 09:22:58,000 INFO [app] Resilient api key id: 8a96e5e5-4c19-471b-8e9c-39d5c0004e8d
+2022-04-11 09:22:58,001 INFO [app] Resilient org: IBM
+2022-04-11 09:22:58,001 INFO [app] Logging Level: INFO
+2022-04-11 09:22:58,003 WARNING [co3] Unverified HTTPS requests (cafile=false).
+2022-04-11 09:22:59,542 INFO [app] Components auto-load directory: (none)
+2022-04-11 09:22:59,548 WARNING [actions_component] Unverified STOMP TLS certificate (cafile=false)
+2022-04-11 09:22:59,555 INFO [stomp_component] Connect to 10.10.2.50:65001
+2022-04-11 09:22:59,556 INFO [app] Components loaded
+2022-04-11 09:22:59,558 INFO [app] App Started
+2022-04-11 09:22:59,660 INFO [actions_component] STOMP attempting to connect
+2022-04-11 09:22:59,661 INFO [stomp_component] Connect to Stomp...
+2022-04-11 09:22:59,662 INFO [client] Connecting to 10.10.2.50:65001 ...
+2022-04-11 09:22:59,720 INFO [client] Connection established
+2022-04-11 09:22:59,816 INFO [client] Connected to stomp broker [session=ID:ibm-resilient.security.tr.ibm.com-43047-1645719272100-4:109, version=1.2]
+2022-04-11 09:22:59,817 INFO [stomp_component] Connected to failover:(ssl://10.10.2.50:65001)?maxReconnectAttempts=3,startupMaxReconnectAttempts=3
+2022-04-11 09:22:59,817 INFO [stomp_component] Client HB: 0  Server HB: 15000
+2022-04-11 09:22:59,818 INFO [stomp_component] No Client heartbeats will be sent
+2022-04-11 09:22:59,818 INFO [stomp_component] Requested heartbeats from server.
+2022-04-11 09:22:59,821 INFO [actions_component] STOMP connected.
+2022-04-11 09:22:59,924 INFO [actions_component] resilient-circuits has started successfully and is now running...
+2022-04-13 11:59:05,054 INFO [app] Configuration file: app.config
+2022-04-13 11:59:05,054 INFO [app] Resilient server: 10.10.2.50
+2022-04-13 11:59:05,055 INFO [app] Resilient api key id: 8a96e5e5-4c19-471b-8e9c-39d5c0004e8d
+2022-04-13 11:59:05,055 INFO [app] Resilient org: IBM
+2022-04-13 11:59:05,055 INFO [app] Logging Level: INFO
+2022-04-13 11:59:05,057 WARNING [co3] Unverified HTTPS requests (cafile=false).
+2022-04-13 11:59:06,570 INFO [app] Components auto-load directory: (none)
+2022-04-13 11:59:06,577 WARNING [actions_component] Unverified STOMP TLS certificate (cafile=false)
+2022-04-13 11:59:06,584 INFO [stomp_component] Connect to 10.10.2.50:65001
+2022-04-13 11:59:06,585 INFO [app] Components loaded
+2022-04-13 11:59:06,586 INFO [app] App Started
+2022-04-13 11:59:06,689 INFO [actions_component] STOMP attempting to connect
+2022-04-13 11:59:06,690 INFO [stomp_component] Connect to Stomp...
+2022-04-13 11:59:06,691 INFO [client] Connecting to 10.10.2.50:65001 ...
+2022-04-13 11:59:06,745 INFO [client] Connection established
+2022-04-13 11:59:06,858 INFO [client] Connected to stomp broker [session=ID:ibm-resilient.security.tr.ibm.com-43047-1645719272100-4:110, version=1.2]
+2022-04-13 11:59:06,859 INFO [stomp_component] Connected to failover:(ssl://10.10.2.50:65001)?maxReconnectAttempts=3,startupMaxReconnectAttempts=3
+2022-04-13 11:59:06,859 INFO [stomp_component] Client HB: 0  Server HB: 15000
+2022-04-13 11:59:06,860 INFO [stomp_component] No Client heartbeats will be sent
+2022-04-13 11:59:06,860 INFO [stomp_component] Requested heartbeats from server.
+2022-04-13 11:59:06,861 INFO [actions_component] STOMP connected.
+2022-04-13 11:59:06,964 INFO [actions_component] resilient-circuits has started successfully and is now running...
+2022-04-13 11:59:09,124 INFO [actions_component] Worker interrupted
